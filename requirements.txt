@@ -1,0 +1,11 @@
+fastapi[all]
+uvicorn
+odmantic
+jwt
+python-jose
+passlib
+bcrypt
+pymongo
+hbmqtt
+python-dotenv
+colorlog
